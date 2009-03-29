@@ -30,4 +30,4 @@ Change log:
 
 1. Upload `image-optimizer.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Post a comment to see whether it works.
+3. Upload a png or jpeg to test it
